@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.editor {
+  width: 800px;
+  margin: 100px auto;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.wrapperClassName {
+  padding: 10px;
+}
+
+.editorClassName {
+  padding: 0 10px;
+}
+
+.App .rdw-editor-main {
+  height: 180px;
+}
+
+.App .hashtag {
+  text-decoration: underline;
+}
+
+.App .rdw-hashtag-link {
+  background-color: transparent;
+  color: rgb(0, 183, 255);
+}
+
+.public-DraftStyleDefault-block {
+  line-height: 1;
+}
